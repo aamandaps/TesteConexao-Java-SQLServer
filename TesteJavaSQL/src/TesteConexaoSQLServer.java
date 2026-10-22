@@ -16,7 +16,7 @@ public class TesteConexaoSQLServer {
         String dbName = "testeConnection"; 
         
         String user = "amanda"; 
-        String senha = "07052025@@"; 
+        String senha = ""; 
         
         Class.forName("com.microsoft.sqlserver.jdbc.SQLServerDriver");
         
